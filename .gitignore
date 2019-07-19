@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EtiqSmoke/bin/Debug
+/.vs
+/EtiqSmoke/obj
